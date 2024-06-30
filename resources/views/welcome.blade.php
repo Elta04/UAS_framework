@@ -1106,8 +1106,8 @@
                         <div class="footer-info">
                             <h3>Binasehat</h3>
                             <p>
-                                A108 Adam Street <br>
-                                NY 535022, USA<br><br>
+                                Brang Biji City <br>
+                                Sumbawa Besar, Nusa Tenggara Barat<br><br>
                                 <strong>Phone:</strong> +1 5589 55488 55<br>
                                 <strong>Email:</strong> info@example.com<br>
                             </p>
@@ -1165,7 +1165,7 @@
                 <!-- You can delete the links only if you purchased the pro version. -->
                 <!-- Licensing information: https://bootstrapmade.com/license/ -->
                 <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Binasehat-free-bootstrap-theme/ -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Designed by <a>Aksara Semesta</a>
             </div>
         </div>
     </footer><!-- End Footer -->
