@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <strong>Copyright &copy; 2022 <a href="https://muhampedia.tech/" target="_blank">AnteikuDevs</a>.</strong>
+    <strong>Copyright &copy; 2024 <a>Aksara Semesta</a>.</strong>
     All
     rights reserved.
 </footer>
